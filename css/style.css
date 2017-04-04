@@ -1,0 +1,509 @@
+
+
+p {
+	font-family: 'Chathura', sans-serif;
+	font-size: 30px;
+	color:#A9A9A9;
+	line-height: 1em;
+
+
+}
+
+
+.navbar {
+	background-color: white;
+	padding: 20px;
+}
+.navbar-brand {
+    margin-left: -15px;
+    margin-top: -30px;
+}
+.navbar-brand>img {
+	display: inline-block;
+}
+ .navbar-brand .left span{
+  	color: #831517;
+  	display: block;
+  	font-weight: bold;
+  }
+  .navbar-brand .left {
+  	position: absolute;
+  	top: 26px;
+  	left: 276px;
+  }
+   .navbar-brand span.left {
+   	display: inline-block;
+   	margin-top: 10px;
+   }
+   .navbar-nav>li {
+    margin-right: 40px;
+}
+.all {
+	padding-top: 25px;
+	height: 600px;
+	background: url(https://static.wixstatic.com/media/8a3e6d_0b1e2bf057fa4d78a69db402aa6a7846.jpg/v1/fill/w_1920,h_1061,al_c,q_85/8a3e6d_0b1e2bf057fa4d78a69db402aa6a7846.webp);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+}
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+	color:red;
+}
+
+/*end first section*/
+
+
+
+
+
+
+
+/*start seconed section*/
+
+.sec {
+	background-color: #ce2026;
+	color: white;
+	padding: 20px;
+}
+.edit {
+	border-right: 2px solid white;
+	height: 65px;
+}
+.edit h3{
+	font-size: 15px
+
+
+}
+.edit p{
+	font-size: 22px;
+}
+.ed{
+	border-right:none;
+
+}
+
+
+/*end secind section*/
+
+
+
+/*start third section*/
+
+.third {
+	background-color: #2f2e2e;
+	color: white;
+	padding-bottom: 90px;
+}
+
+.third  img {
+	width: 100%;
+}
+ .third .right  {
+	margin-top: 190px;
+}
+.third .right-col h3 {
+	text-align: center;
+	background-color: #891519;
+	padding:20px;
+	color:white;
+	margin-top: 130px;
+    margin-bottom: 0px;
+
+}
+.third .right p{
+	font-size: 20px;
+}
+footer {
+	background-color: #242323;
+	text-align: center;
+	color: white;
+	padding: 10px;
+}
+
+
+
+/*end third section*/
+
+
+
+/*start fourth section*/
+
+.fourth {
+	background-color: #eef0e4;
+	padding-bottom: 90px;
+}
+
+
+.ff  h2{
+	font-size: 32px;
+}
+.ff {
+	text-align: center;
+	margin-top: 100px;
+}
+.icon {
+	color: red;
+	stroke-widith:2px;
+}
+.glyphicon {
+	color:#891519;
+	font-size:55px;
+}
+.fourth-section h3 {
+	font-size: 20px;
+	text-align:center;
+}
+.fourth-section p{
+	font-size: 22px;
+}
+
+.fourth-section {
+	margin-top: 70px;
+	text-align: center;
+	font-size: 10px;
+}
+
+/*end fivth section*/
+
+/*start fivth section*/
+
+.fivth-section {
+	text-align: center;
+	width: 100%;
+	padding-bottom: 100px
+}
+.fivth-section img {
+	width: 100%;
+	display: block;
+	transition: 2s;
+}
+.fivth-section .first-row {
+	margin-bottom: 50px;
+	margin-top: 70px;
+}
+.imags img:hover {
+	opacity: 0.3;
+}
+
+/*end fifth section*/
+
+/*start sixth section*/
+.sixth-section {
+	background-color: #ce2026;
+	color: white;
+	padding: 22px
+}
+.sixth-section span{
+	width:20px;
+}
+.sixth-edit {
+	border-right: 2px solid white;
+	padding:7px;
+
+}
+.ed {
+	border-right: none;
+}
+.sixth-edit h6{
+	font-size: 17px;
+	margin-left:22px;
+    margin-left: 20px;
+    margin-bottom: 12px;
+
+}
+
+.sixth-edit p{
+	font-size: 20px;
+	margin-top:-24px;
+	/*text-align: center;*/
+	line-height: normal;
+    letter-spacing: normal;
+
+}
+.sixth-edit .inf {
+	cursor: pointer;
+}
+.sec-icon{
+	color: white;
+	font-size: 17px;
+	position:absolute;
+	top: 16px;
+	left: 20px;
+}
+.sixth-section span h6 {
+	margin-left: 20px;
+	font-style: italic;
+}
+.sixth-section  p span   {
+	margin-right: 80px;
+}
+.sixth-section .sixth-edit a  {
+	position:absolute; 
+	top:46px;
+	color: white;
+	text-decoration: none;
+	color: #A9A9A9;
+} 
+
+
+			/*end sixth-section*/
+
+
+			/*start sevnth section*/
+
+
+
+.sevnth-section {
+	background-color: #2f2e2e;
+	color: white;
+	padding: 25px;
+}
+.sevnth-edit p {
+	color: #ccc;
+	font-size: 25px;
+}
+.sevnth-edit h5 {
+	color: #ccc;
+}
+.sevnth-section .sevnth-edit h5.our  {
+	margin-left: 40px;
+}
+ .sevnth-edit .lista {
+	list-style:none;
+	color: #ccc;
+}
+ .sevnth-icon a.twitter {
+	color: #00bfff;	
+} 
+.sevnth-icon a.google {
+	color:  #ff6633;
+}
+.sevnth-icon a.youtube {
+	color:#ff1a1a;
+
+}
+.sevnth-icon a.pinterest{
+	color:#e6e6e6;
+
+}
+.sevnth-icon a.insta{
+	color: #b30000
+
+
+}
+.sevnth-icon a.face {
+	color:   #2e5dc5;
+}
+footer p{
+	font-size: 22px;
+}
+			/*end sevnth-section*/
+
+
+
+
+
+
+
+
+
+
+			/*start about page*/
+
+.about{
+	padding-top: 30px;
+	background: url(https://static.wixstatic.com/media/8a3e6d_0b1e2bf057fa4d78a69db402aa6a7846.jpg/v1/fill/w_1920,h_1061,al_c,q_85/8a3e6d_0b1e2bf057fa4d78a69db402aa6a7846.webp);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+.about-second {
+
+	padding: 70px 0;
+}
+.about-links {
+		border-bottom: 10px solid red;
+}
+.about-second  .col-img h3{
+	text-align: center;
+	background-color: #891519;
+	padding:20px;
+	color:white;
+    margin-bottom: 0px;
+
+}
+.about-second  img {
+	width: 100%;
+}
+.left-col {
+`	padding-top: 18px;
+	margin: 10px 0;
+}
+
+
+
+/*LOgIN PAGE*/
+
+.log-links {
+	border: none;
+}
+.log {
+	background-color: rgba(2,2,2,0.5);
+	height: 100%;
+	padding-top: 30px;
+	padding-bottom: 200px;
+
+}
+.signup{
+	background:url('../imag/bg.jpg');
+	background-size: cover;
+	background-attachment:fixed;
+}
+ .signup .bg .form-group {
+	margin-top: 150px;
+	/*border: 50px solid rgba(2,2,2,0.5);*/
+}
+/*.bg{
+	background-color: rgba(2,2,2,0.5);
+	height: 100%;
+}
+*/.CA .input-group {
+	margin-bottom: 30px;
+	background-color: rgba(2,2,2,0.6);
+}
+.CA .input-group span {
+	background-color:  #ce2026;
+	color: white;
+}
+label {
+	color: white;
+}
+.signup h1 {
+	background-color: rgba(225,225,225,0.25);
+	color: floralwhite;
+	margin-bottom: 30px;
+	border-radius: 6px;
+	font-family: 'icomoon';
+	letter-spacing: 15px;
+}
+.signup h4 {
+	background-color: #ce2026;
+	color: white;
+	padding: 5px;
+	border-radius: 5px;
+	font-family: 'icomoon';
+}
+.btn-default:hover {
+    color: white;
+    background-color: #ce2026 ;
+    transition: all 0.3s;
+	transition: 1.5s ease;
+}
+.btn-lg {
+	background-color: #ce2026;
+	color: white;
+	font-weight: bold;
+}
+.sign .col-md-6 {
+	border: 1px solid;
+    background-color: rgba(2,2,2,0.5);
+    margin-top: 70px;
+
+}
+.login .col-md-4 {
+	    border: 1px solid;
+    background: rgba(2,2,2,0.5);
+    margin-top: 70px;
+
+}
+.login .hh {
+	letter-spacing: 20px;
+
+}
+.log-icons {
+	float:right;
+	margin-right: 40px;
+	margin-top: -120px;
+}
+ .log-icons .fa-twitter {
+	color: #1da1f2;
+	font-size: 50px;
+}
+.log-icons .fa-facebook {
+	color: #3b5998;
+	font-size: 50px;
+}
+.log-icons .fa-google-plus {
+	color: #db4437;
+	font-size: 40px;
+}
+.ismail:hover{
+
+		background-color:rgba(2,2,2,0.5) ;
+		transition: 2s;
+		border-radius: 500px;
+
+
+}
+
+.fa-circle-o {
+	color: rgba(225,225,225,0.25)
+} 
+.btn-default {
+	background-color:rgba(2,2,2,0.7) ;
+	border-radius: 8px;
+    transition: 2s;
+	color:white;
+	font-weight: bold;
+	width: 100%;
+	display: block;
+	margin: auto;
+	text-align: center;
+	letter-spacing: 1px;
+	font-family: 'icomoon';
+	margin-bottom: 20px;
+
+
+}
+.lo {
+	margin-bottom:175px;
+}
+.fa-stack  {
+	font-size: 50px;
+}
+
+
+
+	
+@media only screen and (max-width: 768px){
+	.navbar-brand .left{
+		top: 30px;
+   	 	left: 193px;
+	}
+}
+@media only screen and (max-width: 991px){
+	.edit{
+		border: none;
+
+	}
+	.sixth-edit{
+		border: none;
+	}
+
+}
+@media only screen and (max-width: 576px){
+	.signup h1{
+		letter-spacing: 5px;
+		font-size: 25px;
+	}
+}
+
+@media (min-width:992px) and (max-width: 1201px){
+	.signup h1{
+		letter-spacing: 5px;
+		font-size: 25px;
+	}
+}
+
+
